@@ -127,11 +127,5 @@ If you find a bug or want to request a feature, please open an issue.
 
 This project is licensed under the MIT License.
 
-## 👨‍💻 Author
-
-**Your Name**
-GitHub: [https://github.com/your-username](https://github.com/your-username)
-
----
 
 ⭐ If you like this project, give it a star on GitHub!
